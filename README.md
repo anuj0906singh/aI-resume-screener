@@ -28,8 +28,9 @@ Turns a slow, subjective screening process into a fast, consistent,
 data-backed first filter — saving hours of manual review time.
 
 ## Demo
-[Watch workflow demo video](https://portfoliowebsite-mu-ochre.vercel.app/) — shows the n8n 
-execution trace and results score in action.
+Watch the full workflow demo (n8n execution trace & results score) on 
+my [portfolio](https://portfoliowebsite-mu-ochre.vercel.app/) — 
+scroll to the AI Resume Screener project card.
 
 ---
 Built by Anuj Singh · [Portfolio](https://portfoliowebsite-mu-ochre.vercel.app/)
