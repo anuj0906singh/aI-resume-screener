@@ -28,7 +28,7 @@ Turns a slow, subjective screening process into a fast, consistent,
 data-backed first filter — saving hours of manual review time.
 
 ## Demo
-[Watch workflow demo video](link-to-your-video) — shows the n8n 
+[Watch workflow demo video]([link-to-your-video](https://portfoliowebsite-mu-ochre.vercel.app/)) — shows the n8n 
 execution trace and results score in action.
 
 ---
